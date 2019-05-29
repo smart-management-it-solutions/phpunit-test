@@ -4,7 +4,7 @@ require 'Calculator.php';
 class CalculatorTests extends PHPUnit_Framework_TestCase
 {
     private $calculator;
- 
+ //just a comment
     protected function setUp()
     {
         $this->calculator = new Calculator();
