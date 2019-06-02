@@ -7,5 +7,5 @@ class Calculator
     {
         return $a + $b; //variables
     }
- 
+ //new comment
 }
